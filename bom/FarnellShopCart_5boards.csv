@@ -1,0 +1,18 @@
+﻿Št. postavke,Številka naročila,Skladnost z direktivo RoHS?,Št. vašega dela,Opombe,Količina,Proizvajalčeva številka dela,Ime proizvajalca,Proizvajalec / opis,Razpolozljivost,Cena na enoto,Cena postavke,Cena s popustom
+1,2896530,YES,,1,5.0,"VJ0805G225KXYTW1BC",VISHAY,"VISHAY  SMD Multilayer Ceramic Capacitor, 0805 [2012 Metric], 2.2 µF, 6.3 V, ± 10%, X5R, VJ Series",2785,0.1120,0.56,,
+2,2534050,YES,,2,10.0,"885012207011",WURTH ELEKTRONIK,"WURTH ELEKTRONIK  SMD Multilayer Ceramic Capacitor, 0805 [2012 Metric], 0.01 µF, 10 V, ± 10%, X7R, WCAP-CSGP Series",8103,0.0459,0.46,,
+3,2496943,YES,,3,10.0,"0805B104K250CT",WALSIN,"WALSIN  SMD Multilayer Ceramic Capacitor, 0805 [2012 Metric], 0.1 µF, 25 V, ± 10%, X7R",532,0.1220,1.22,,
+4,2502786,YES,,8,10.0,"WF08P1002FTL",WALSIN,"WALSIN  SMD Chip Resistor, 10 kohm, WF08P Series, 150 V, Thick Film, 0805 [2012 Metric], 250 mW",3231,0.1350,1.35,,
+5,1653013,NO,,9,10.0,"CRCW08054K70FKTA",VISHAY,"VISHAY  SMD Chip Resistor, 4.7 kohm, CRCW Series, 150 V, Thick Film, 0805 [2012 Metric], 125 mW",2670,0.0620,0.62,,
+6,2468741,YES,,10,10.0,"1437566-3",ALCOSWITCH - TE CONNECTIVITY,"ALCOSWITCH - TE CONNECTIVITY  Pushbutton Switch, Off-(On), SPST, 24 V, 50 mA, SMD",2418,0.2700,2.70,,
+7,1470478,YES,,12,5.0,"TPS79333DBVR",TEXAS INSTRUMENTS,"TEXAS INSTRUMENTS  Fixed LDO Voltage Regulator, 2.7V to 5.5V, 102mV Dropout, 3.3Vout, 200mAout, SOT-23-5",5911 na voljo do odprodaje zalog,0.5840,2.92,,
+8,2469549,YES,,13,5.0,"STM32F042F6P6",STMICROELECTRONICS,"STMICROELECTRONICS  ARM Microcontroller, USB Line, STM32 Family STM32F0 Series Microcontrollers, ARM Cortex-M0, 32bit",16224,1.8800,9.40,,
+9,2533276,YES,,14,5.0,"NUP2202W1T2G",ON SEMICONDUCTOR,"ON SEMICONDUCTOR  ESD Protection Device, 20 V, SC-88, 6 Pins, 5 V, 500 W, NUP22 Series",10645,0.5130,2.57,,
+10,2529589,YES,,,2.0,"M50-3610542",HARWIN,"HARWIN  Board-To-Board Connector, 1.27 mm, 10 Contacts, Header, Archer M50 Series, Surface Mount, 2 Rows",138,0.9010,1.80,,
+11,2896566,YES,,,5.0,"VJ0805Y105KXXTW1BC",VISHAY,"VISHAY  SMD Multilayer Ceramic Capacitor, 0805 [2012 Metric], 1 µF, 25 V, ± 10%, X7R, VJ Series",Out of Stock,0.0840,0.42,,
+
+,,,,,,,Vmesna vsota,24.02
+,,,,,,,Vsota za blago,24.02
+,,,,,,,Dostava,5.00
+,,,,,,,DDV,6.38
+,,,,,,,Skupaj,35.40
