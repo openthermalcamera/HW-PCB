@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name mlx90640)(type Legacy)(uri ${KIPRJMOD}/mlx90640.lib)(options "")(descr ""))
+  (lib (name DX07P024AJ1R1500)(type Legacy)(uri ${KIPRJMOD}/lib_sch/DX07P024AJ1R1500.lib)(options "")(descr ""))
+  (lib (name MLX90640)(type Legacy)(uri ${KIPRJMOD}/lib_sch/MLX90640.lib)(options "")(descr ""))
 )
