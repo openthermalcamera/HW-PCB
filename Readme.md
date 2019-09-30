@@ -1,5 +1,8 @@
 # Open Thermal Camera - KiCad PCB
 This repository contains KiCad source files for Open Thermal Camera PCB.
+
+The PCB is 2 layer, thickness of 0.8mm (To accommodate the edge TypeC / MicroUSB connector)
+
 Under releases you can find:
 - Interactive BOM (.html)
 - KiCost BOM (.xlsx)
